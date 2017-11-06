@@ -29,7 +29,7 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-	                <string>io.dcloud.H5278AEDB</string>
+	                <string>io.dcloud</string>
 	                <key>bundle-version</key>
 	                <string>1.0.0</string>
 	                <key>kind</key>
