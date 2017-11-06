@@ -17,13 +17,13 @@
 	                    <key>zwin</key>
 	                    <string>display-image</string>
 	                    <key>url</key>
-	                    <string>https://zwin888.github.io/mobile/icon/logo.png</string>
+	                    <string>https://zwin888.github.io/mobile/images/logo.png</string>
 	                </dict>
 	                <dict>
 	                    <key>zwin</key>
 	                    <string>full-size-image</string>
 	                    <key>url</key>
-	                    <string>https://zwin888.github.io/mobile/icon/logo.png</string>
+	                    <string>https://zwin888.github.io/mobile/images/logo.png</string>
 	                </dict>
 				</array>
 				<key>metadata</key>
