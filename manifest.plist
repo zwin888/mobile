@@ -29,7 +29,7 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-	                <string>ucai88.net</string>
+	                <string>io.dcloud.H5278AEDB</string>
 	                <key>bundle-version</key>
 	                <string>1.0.0</string>
 	                <key>zwin</key>
@@ -41,3 +41,6 @@
 		</array>
 	</dict>
 </plist>
+
+
+
