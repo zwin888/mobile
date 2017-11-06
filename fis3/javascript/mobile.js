@@ -37,7 +37,7 @@
 
             if (sUserAgent.indexOf('android') > -1) {
                 // android
-                $btn.attr('href', 'https://zwin888.github.io/mobile/app/zwin.apk')
+                $btn.attr('href', 'https://zwin888.github.io/mobile/zwin.apk')
                 $('#tip > li:eq(2)').show()
             }
 
